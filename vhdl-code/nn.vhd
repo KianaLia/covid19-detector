@@ -208,7 +208,5 @@ if rising_edge(clk) then
 end if;
 
 end process;
---- the end :))))
---- Kiana Liaghat 9729843
 end Behavioral;
 
